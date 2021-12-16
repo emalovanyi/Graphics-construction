@@ -1,0 +1,27 @@
+﻿  MyForm.cpp
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(575,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(614,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(614,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(615,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(615,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(620,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(620,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(621,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(621,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(631,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(631,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(632,139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(637,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(637,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(637,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(638,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(638,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(638,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(642,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(642,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(642,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+D:\універ\C++\12lab\Project1\Project1\MyForm.h(534): warning C4715: 'Project1::MyForm::f': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\універ\C++\12lab\Project1\Debug\Project1.exe
